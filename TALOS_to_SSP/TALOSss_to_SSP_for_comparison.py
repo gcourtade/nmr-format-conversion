@@ -23,4 +23,5 @@ for line in fileinput.input(inputFile, inplace=1):
 				line=""
 		
 	print(line, end="")
+	
 		
