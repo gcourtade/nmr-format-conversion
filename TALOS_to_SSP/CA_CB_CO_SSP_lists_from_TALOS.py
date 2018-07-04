@@ -56,7 +56,6 @@ for line in fileinput.input(inputFile, inplace=0):
                                 shift_C.append(shift)
                                 break
 
-
 printFiles(outputFile_CA,res_CA,shift_CA)
 printFiles(outputFile_CB,res_CB,shift_CB)
 printFiles(outputFile_C,res_C,shift_C)
