@@ -1,10 +1,8 @@
 # nmr-format-conversion
-Gaston Courtade - 04.07.2018
+Gaston Courtade - 04.07.2018 - <gaston.courtade@ntnu.no>
 
 The overall functionality of the Python scripts in this repository consists in parsing lines from a text file in format X,
-reordering and reformatting the data and writing a new text file in format Y. 
-
-These scripts have been produced as part of my PhD thesis on protein NMR at NTNU Norwegian University of Science and Technology. 
+reordering and reformatting the data and writing a new text file in format Y. These scripts have been produced as part of my PhD thesis on protein NMR at NTNU Norwegian University of Science and Technology. 
 When presenting results obtained using the scripts, please cite:
 
 
